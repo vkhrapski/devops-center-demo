@@ -3,7 +3,7 @@
     <fullName>DevOps_Center__c</fullName>
     <externalId>false</externalId>
     <label>DevOps Center</label>
-    <length>10</length>
+    <length>1</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
